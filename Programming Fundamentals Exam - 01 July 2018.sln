@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SoftUni Reception", "..\..\source\repos\Exam!!!\Exam!!!\01. SoftUni Reception.csproj", "{526CDF64-72F7-44DA-9627-C2F0C4E4BA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SoftUni Course Planning", "..\..\source\repos\Exam!!!\02\02.SoftUni Course Planning.csproj", "{AA09189D-ECF3-4DA8-AEE6-3A12F347BFA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SoftUni Bar Income", "..\..\source\repos\Exam!!!\03\03. SoftUni Bar Income.csproj", "{15F4E5D0-C16E-46FB-9E52-F6D5A7984C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SoftUni Exam Results", "..\..\source\repos\Exam!!!\04\04. SoftUni Exam Results.csproj", "{CE6EB5F3-E30B-4982-B696-162193FB88F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526CDF64-72F7-44DA-9627-C2F0C4E4BA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526CDF64-72F7-44DA-9627-C2F0C4E4BA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526CDF64-72F7-44DA-9627-C2F0C4E4BA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526CDF64-72F7-44DA-9627-C2F0C4E4BA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA09189D-ECF3-4DA8-AEE6-3A12F347BFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA09189D-ECF3-4DA8-AEE6-3A12F347BFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA09189D-ECF3-4DA8-AEE6-3A12F347BFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA09189D-ECF3-4DA8-AEE6-3A12F347BFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F4E5D0-C16E-46FB-9E52-F6D5A7984C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F4E5D0-C16E-46FB-9E52-F6D5A7984C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F4E5D0-C16E-46FB-9E52-F6D5A7984C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F4E5D0-C16E-46FB-9E52-F6D5A7984C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6EB5F3-E30B-4982-B696-162193FB88F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6EB5F3-E30B-4982-B696-162193FB88F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6EB5F3-E30B-4982-B696-162193FB88F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6EB5F3-E30B-4982-B696-162193FB88F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD108F1-F64A-42C3-93F8-15815D75A108}
+	EndGlobalSection
+EndGlobal
